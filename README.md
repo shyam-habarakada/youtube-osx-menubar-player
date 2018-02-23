@@ -4,5 +4,11 @@ A menu bar app that lets you keep you tube playing while you work. A picture is 
 
 ![Alt text](./screenshot.png)
 
-## This is the very first and most monimal version. THe app pretends to be an iPhone browser so youtube sends you the
+## How to build
+
+* clone
+* switch to the directory
+* run `./make-package.sh`
+
+Run the app from the generated directory.
 
