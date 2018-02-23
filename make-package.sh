@@ -1,1 +1,1 @@
-electron-packager --platform darwin --electron-version 1.4.13 --appBundleId shyamh-youtube-player --appCategoryType public.entertainment.music --icon images/icon.icns --overwrite --appCopyright 'twitter.com/shyamh' --name 'YouTube Player' . 'YouTube Player'
+electron-packager --platform darwin --electron-version 1.4.13 --appBundleId shyamh-youtube-player --appCategoryType public.entertainment.music --icon images/icon-red.icns --overwrite --appCopyright 'twitter.com/shyamh' --name 'YouTube Player' . 'YouTube Player'
