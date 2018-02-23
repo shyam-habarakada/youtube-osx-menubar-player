@@ -1,12 +1,16 @@
 # YouTube Menu Bar App for OSX
 
-A menu bar app that lets you keep you tube playing while you work. A picture is worth a thousand words.
-
-![Alt text](./screenshot.png)
+A menu bar app that lets you listen to your favorite playlist on YouTube.
 
 ## Install
 
-* [`v1.0`](https://github.com/shyam-habarakada/youtube-osx-menubar-player/releases/tag/v1.0)
+* [v1.0 — KeXPsEaTTLe release](https://github.com/shyam-habarakada/youtube-osx-menubar-player/releases/tag/v1.0)
+
+## How does it work?
+
+A picture is worth a thousand words.
+
+![Alt text](./screenshot.png)
 
 ## How to build
 
