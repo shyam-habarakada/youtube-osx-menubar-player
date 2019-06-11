@@ -4,5 +4,9 @@
   "main": "main.js",
   "dependencies": {
     "wine": "0.0.3"
+  },
+  "devDependencies": {
+    "electron": "^5.0.3",
+    "electron-packager": "^13.1.1"
   }
 }

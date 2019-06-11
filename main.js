@@ -12,7 +12,7 @@ const url = require('url')
 const sessionName = 'persist:youtube-menubar-app'
 
 // let mobileUserAgent = 'Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25'
-let mobileUserAgent = 'Mozilla/5.0 (Linux; U; Android 4.0.3; ko-kr; LG-L160L Build/IML74K) AppleWebkit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30'
+let mobileUserAgent = 'Mozilla/5.0 (Linux; Android 9; SM-G960F Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.157 Mobile Safari/537.36'
 
 let tray = undefined
 let win = undefined
@@ -55,7 +55,7 @@ function createWindow () {
     callback({ cancel: false, requestHeaders: details.requestHeaders });
   });
 
-  win.loadURL(`https://m.youtube.com`)
+  win.loadURL(`https://music.youtube.com`)
 
   win.on('blur', () => {
     if (win.isVisible()) {

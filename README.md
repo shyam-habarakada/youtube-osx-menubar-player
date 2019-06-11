@@ -14,6 +14,13 @@ A picture is worth a thousand words.
 
 ## How to build
 
+pre-requsites
+
+* npm
+* npm install electron-packager -g
+
+Then,
+
 * clone
 * switch to the directory
 * run `./make-package.sh`
